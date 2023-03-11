@@ -7,7 +7,7 @@
 
 在config文件夹添加/修改对应的文件中的json文件
 
-'''json
+```json
 "api":{
     "SecretId":"", // 在 [ai.qq.com](https://ai.qq.com) 中找到人脸识别，然后登入控制台即可免费领取一定额度,然后将得到的 `SecretId` 和 `SecretKey` 
     "SecretKey":""
@@ -18,7 +18,7 @@
   "comment_contain":"", //评论文本
   "BEAUTY_THRESHOLD":80, // 审美标准
   "GIRL_MIN_AGE":9, // 最小年龄
-'''
+```
 
 ### 配置详解
 
