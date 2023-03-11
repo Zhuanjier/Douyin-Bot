@@ -4,44 +4,44 @@
     "SecretKey":""
   },
   "star":2,
-  "follow":1,
-  "comment":1,
-  "comment_contain":"北印19雷哥想要你wx，希望你不要不知好歹",
+  "follow":-1,
+  "comment":0,
+  "comment_contain":"",
   "BEAUTY_THRESHOLD":80,
   "GIRL_MIN_AGE":9,
   "center_point":{
-    "x": 540,
-    "y": 965,
+    "x": 720,
+    "y": 1520,
     "rx": 10,
     "ry": 300
   },
   "follow_bottom":{
-    "x": 990,
-    "y": 950,
-    "rx": 10,
-    "ry": 10
+    "x": 1332,
+    "y": 1652,
+    "rx": 2,
+    "ry": 2
   },
   "star_bottom":{
-    "x": 1000,
-    "y": 1083,
+    "x": 1332,
+    "y": 1712,
     "rx": 10,
     "ry": 10
   },
   "comment_bottom":{
     "x": 1000,
-    "y": 1240,
+    "y": 1645,
     "rx": 10,
     "ry": 10
   },
-    "comment_text":{
+  "comment_text":{
     "x": 300,
-    "y": 1855,
+    "y": 2250,
     "rx": 10,
     "ry": 10
   },
-   "comment_send":{
+  "comment_send":{
     "x": 1010,
-    "y": 1690,
+    "y": 2015,
     "rx": 10,
     "ry": 10
   }
